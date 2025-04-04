@@ -1,4 +1,5 @@
 # Advanced Predictive Analytics: Cross-Validation & Regression
+(Spanish version below)
 
 ## Project Overview
 **Advanced Predictive Analytics: Cross-Validation & Regression** is a Data Science project focused on predicting and analyzing gold recovery efficiency. The dataset includes multiple stages of mineral processing, and the goal is to build robust regression models using advanced validation techniques.
@@ -12,16 +13,10 @@
 
 ## Repository Structure
 
-Advanced-Predictive-Analytics-CV-Regression/
-├── data/
-│   ├── gold_recovery_full.csv
-│   ├── gold_recovery_test.csv
-│   └── gold_recovery_train.csv
-└── notebook/
-    ├── Sprint 12 Hugo Canaval.ipynb
-    └── train_clean.
+## Structure
 - **data/**: Contains the CSV files used in the analysis.
-- **notebook/**: Main Jupyter Notebook with all the analysis and cleaned training data.
+- **notebook/**: Jupyter Notebook(s) with the complete analysis and modeling code.
+
 
 ## Usage
 1. Clone or download this repository.
@@ -44,15 +39,6 @@ Advanced-Predictive-Analytics-CV-Regression/
 - **Métricas de Rendimiento:** Se emplearon sMAPE (error porcentual medio absoluto simétrico) y MAE para evaluar la precisión de los modelos.
 
 ## Estructura del Repositorio
-
-Advanced-Predictive-Analytics-CV-Regression/
-├── data/
-│   ├── gold_recovery_full.csv
-│   ├── gold_recovery_test.csv
-│   └── gold_recovery_train.csv
-└── notebook/
-    ├── Sprint 12 Hugo Canaval.ipynb
-    └── train_clean.csv
 
 - **data/**: Contiene los archivos CSV utilizados en el análisis.
 - **notebook/**: Notebook principal de Jupyter con todo el análisis y datos de entrenamiento limpios.
